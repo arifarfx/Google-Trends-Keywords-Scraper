@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 00:00:03",
+  "lastUpdate": "16-12-2024 , 02:03:04",
   "data": [
     {
       "title": "Vollmond Dezember 2024",
@@ -17,6 +17,11 @@
       "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
     },
     {
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+      "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
+    },
+    {
       "title": "Caroline Peters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Caroline%20Peters",
       "pubdate": "Sun, 15 Dec 2024 10:00:00 +0100"
@@ -32,11 +37,6 @@
       "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-      "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Heidenheim – VfB Stuttgart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20VfB%20Stuttgart",
       "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
@@ -45,11 +45,6 @@
       "title": "Hochfilzen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochfilzen",
       "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BVB",
-      "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Münster Tatort",
@@ -77,11 +72,6 @@
       "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus",
-      "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
-    },
-    {
       "title": "Vienna Capitals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vienna%20Capitals",
       "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
@@ -99,6 +89,16 @@
     {
       "title": "Ariane Rädler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ariane%20R%C3%A4dler",
+      "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Mainz – Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mainz%20%E2%80%93%20Bayern",
+      "pubdate": "Sat, 14 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Rayo Vallecano – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rayo%20Vallecano%20%E2%80%93%20Real%20Madrid",
       "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
     }
   ]
