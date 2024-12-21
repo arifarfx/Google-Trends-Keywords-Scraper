@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "21-12-2024 , 02:37:05",
+  "lastUpdate": "21-12-2024 , 03:00:49",
   "data": [
     {
       "title": "Astrid et Raphaëlle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Astrid%20et%20Rapha%C3%ABlle",
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "La France a un incroyable talent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20France%20a%20un%20incroyable%20talent",
+      "pubdate": "Sat, 21 Dec 2024 02:00:00 +0100"
     },
     {
       "title": "Thomas Dutronc",
@@ -17,9 +22,14 @@
       "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "Coupe de France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupe%20de%20France",
+      "pubdate": "Fri, 20 Dec 2024 08:00:00 +0100"
+    },
+    {
       "title": "Salahdine Parnasse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salahdine%20Parnasse",
-      "pubdate": "Fri, 20 Dec 2024 16:00:00 +0100"
+      "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Isack Hadjar",
@@ -57,11 +67,6 @@
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "La Grande magie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Grande%20magie",
-      "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Thierry Jacob",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Jacob",
       "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Joyeuses fêtes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joyeuses%20f%C3%AAtes",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Mazan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mazan",
-      "pubdate": "Thu, 19 Dec 2024 10:00:00 +0100"
     }
   ]
 }

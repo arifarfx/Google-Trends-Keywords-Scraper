@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 02:37:07",
+  "lastUpdate": "21-12-2024 , 03:00:51",
   "data": [
     {
       "title": "Sal Da Vinci",
@@ -10,6 +10,11 @@
       "title": "The Voice Kids",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Voice%20Kids",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Chico Forti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chico%20Forti",
+      "pubdate": "Sat, 21 Dec 2024 03:00:00 +0100"
     },
     {
       "title": "Milan",
@@ -82,8 +87,8 @@
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Cavese-Benevento",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cavese-Benevento",
+      "title": "Cavese Benevento",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cavese%20Benevento",
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Tomori",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tomori",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Olimpia Milano  Bayern Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Olimpia%20Milano%20%20Bayern%20Monaco",
-      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
     }
   ]
 }
