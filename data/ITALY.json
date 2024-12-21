@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 03:39:50",
+  "lastUpdate": "21-12-2024 , 03:49:38",
   "data": [
     {
       "title": "Sal Da Vinci",
@@ -10,6 +10,11 @@
       "title": "The Voice Kids",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Voice%20Kids",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Chico Forti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chico%20Forti",
+      "pubdate": "Sat, 21 Dec 2024 03:00:00 +0100"
     },
     {
       "title": "Milan",
@@ -77,6 +82,11 @@
       "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
     },
     {
+      "title": "Berlino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berlino",
+      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
+    },
+    {
       "title": "Margherita Agnelli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Margherita%20Agnelli",
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Leao",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leao",
       "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "ANSA news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#ANSA%20news",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Tomori",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tomori",
-      "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
     }
   ]
 }

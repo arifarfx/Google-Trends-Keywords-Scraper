@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 03:39:48",
+  "lastUpdate": "21-12-2024 , 03:49:35",
   "data": [
     {
       "title": "Astrid et Raphaëlle",
@@ -7,14 +7,19 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "La France a un incroyable talent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20France%20a%20un%20incroyable%20talent",
+      "pubdate": "Sat, 21 Dec 2024 02:00:00 +0100"
+    },
+    {
       "title": "Thomas Dutronc",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Dutronc",
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "La France a un incroyable talent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20France%20a%20un%20incroyable%20talent",
-      "pubdate": "Sat, 21 Dec 2024 02:00:00 +0100"
+      "title": "Fury Usyk 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fury%20Usyk%202",
+      "pubdate": "Sat, 21 Dec 2024 04:00:00 +0100"
     },
     {
       "title": "Magdebourg",
@@ -95,11 +100,6 @@
       "title": "Kylian Mbappé",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kylian%20Mbapp%C3%A9",
       "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Joyeuses fêtes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joyeuses%20f%C3%AAtes",
-      "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
     }
   ]
 }
