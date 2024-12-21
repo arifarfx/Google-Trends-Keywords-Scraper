@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "21-12-2024 , 04:40:59",
+  "lastUpdate": "21-12-2024 , 04:50:57",
   "data": [
     {
-      "title": "Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20utd",
-      "pubdate": "Sat, 21 Dec 2024 09:00:00 +1300"
+      "title": "Power outage",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Power%20outage",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +1300"
+    },
+    {
+      "title": "UNISON",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UNISON",
+      "pubdate": "Sat, 21 Dec 2024 15:00:00 +1300"
     },
     {
       "title": "Tyson Fury vs Usyk 2",
@@ -12,8 +17,23 @@
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +1300"
     },
     {
+      "title": "Auckland FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
+      "pubdate": "Sat, 21 Dec 2024 17:00:00 +1300"
+    },
+    {
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20utd",
+      "pubdate": "Sat, 21 Dec 2024 09:00:00 +1300"
+    },
+    {
       "title": "Australia Women vs New Zealand Women",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20Women%20vs%20New%20Zealand%20Women",
+      "pubdate": "Sat, 21 Dec 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Magdeburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Magdeburg",
       "pubdate": "Sat, 21 Dec 2024 12:00:00 +1300"
     },
     {
@@ -22,9 +42,9 @@
       "pubdate": "Sat, 21 Dec 2024 10:00:00 +1300"
     },
     {
-      "title": "Magdeburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Magdeburg",
-      "pubdate": "Sat, 21 Dec 2024 12:00:00 +1300"
+      "title": "White Ferns",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#White%20Ferns",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +1300"
     },
     {
       "title": "Bayern vs RB Leipzig",
@@ -37,6 +57,11 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +1300"
     },
     {
+      "title": "The Grove Auckland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Grove%20Auckland",
+      "pubdate": "Sat, 21 Dec 2024 15:00:00 +1300"
+    },
+    {
       "title": "Beast Games",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Beast%20Games",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +1300"
@@ -45,16 +70,6 @@
       "title": "Ethan Slater",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ethan%20Slater",
       "pubdate": "Sat, 21 Dec 2024 10:00:00 +1300"
-    },
-    {
-      "title": "The Grove Auckland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Grove%20Auckland",
-      "pubdate": "Sat, 21 Dec 2024 15:00:00 +1300"
-    },
-    {
-      "title": "UNISON",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UNISON",
-      "pubdate": "Sat, 21 Dec 2024 15:00:00 +1300"
     },
     {
       "title": "Gladiator",
@@ -85,21 +100,6 @@
       "title": "Chelsea vs Shamrock Rovers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea%20vs%20Shamrock%20Rovers",
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +1300"
-    },
-    {
-      "title": "Pharma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pharma",
-      "pubdate": "Fri, 20 Dec 2024 08:00:00 +1300"
-    },
-    {
-      "title": "Earthquake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-      "pubdate": "Fri, 20 Dec 2024 00:00:00 +1300"
-    },
-    {
-      "title": "Pakistan vs South Africa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20South%20Africa",
-      "pubdate": "Fri, 20 Dec 2024 08:00:00 +1300"
     }
   ]
 }

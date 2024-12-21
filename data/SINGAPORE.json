@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "21-12-2024 , 04:41:01",
+  "lastUpdate": "21-12-2024 , 04:50:58",
   "data": [
+    {
+      "title": "Magdeburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Magdeburg",
+      "pubdate": "Sat, 21 Dec 2024 10:00:00 +0800"
+    },
     {
       "title": "U.S. government shutdown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20government%20shutdown",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0800"
     },
     {
-      "title": "Magdeburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Magdeburg",
-      "pubdate": "Sat, 21 Dec 2024 10:00:00 +0800"
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bundesliga",
+      "pubdate": "Sat, 21 Dec 2024 11:00:00 +0800"
     },
     {
       "title": "Beast Games",
@@ -37,14 +42,19 @@
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0800"
     },
     {
+      "title": "MH370",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MH370",
+      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0800"
+    },
+    {
       "title": "Spurs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spurs",
       "pubdate": "Fri, 20 Dec 2024 09:00:00 +0800"
     },
     {
-      "title": "MH370",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MH370",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0800"
+      "title": "Changi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Changi",
+      "pubdate": "Fri, 20 Dec 2024 22:00:00 +0800"
     },
     {
       "title": "Spurs vs Man United",
@@ -90,16 +100,6 @@
       "title": "Fed rate cuts",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20rate%20cuts",
       "pubdate": "Wed, 18 Dec 2024 23:00:00 +0800"
-    },
-    {
-      "title": "Honda Nissan merger talks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Honda%20Nissan%20merger%20talks",
-      "pubdate": "Wed, 18 Dec 2024 16:00:00 +0800"
-    },
-    {
-      "title": "Whooping cough",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Whooping%20cough",
-      "pubdate": "Wed, 18 Dec 2024 11:00:00 +0800"
     }
   ]
 }
