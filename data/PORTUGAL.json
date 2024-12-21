@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 17:41:19",
+  "lastUpdate": "21-12-2024 , 17:51:08",
   "data": [
     {
       "title": "Aston Villa  City",
@@ -7,14 +7,19 @@
       "pubdate": "Sat, 21 Dec 2024 12:00:00 +0000"
     },
     {
+      "title": "Pedro Sobral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Sobral",
+      "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
+    },
+    {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
     },
     {
-      "title": "Pedro Sobral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Sobral",
-      "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
+      "title": "Famalicão  Farense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Farense",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0000"
     },
     {
       "title": "Vizela  Porto B",
@@ -32,9 +37,9 @@
       "pubdate": "Sat, 21 Dec 2024 10:00:00 +0000"
     },
     {
-      "title": "Oceanario Lisboa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oceanario%20Lisboa",
-      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
+      "title": "Portimonense  Académico de Viseu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portimonense%20%20Acad%C3%A9mico%20de%20Viseu",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0000"
     },
     {
       "title": "AfD",
@@ -42,14 +47,29 @@
       "pubdate": "Sat, 21 Dec 2024 08:00:00 +0000"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
+      "title": "Oceanario Lisboa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oceanario%20Lisboa",
+      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "SZA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SZA",
+      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mbappe",
+      "pubdate": "Sat, 21 Dec 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Magdeburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Magdeburg",
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
     },
     {
-      "title": "Alemanha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alemanha",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0000"
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
+      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
     },
     {
       "title": "Casa Pia",
@@ -80,26 +100,6 @@
       "title": "Mastiksoul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mastiksoul",
       "pubdate": "Fri, 20 Dec 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0000"
-    },
-    {
-      "title": "Tupperware",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tupperware",
-      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chelsea",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Solstício de inverno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Solst%C3%ADcio%20de%20inverno",
-      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0000"
     }
   ]
 }

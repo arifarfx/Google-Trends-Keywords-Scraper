@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 17:41:16",
+  "lastUpdate": "21-12-2024 , 17:51:05",
   "data": [
     {
       "title": "Aston villa–manchester City",
@@ -17,9 +17,24 @@
       "pubdate": "Sat, 21 Dec 2024 10:00:00 +0100"
     },
     {
+      "title": "Ipswich–newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ipswich%E2%80%93newcastle",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0100"
+    },
+    {
       "title": "Getafe–mallorca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Getafe%E2%80%93mallorca",
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Fodor Csenge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fodor%20Csenge",
+      "pubdate": "Sat, 21 Dec 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Hacser Józsa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hacser%20J%C3%B3zsa",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Brittany Murphy",
@@ -37,9 +52,14 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Hacser Józsa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hacser%20J%C3%B3zsa",
-      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0100"
+      "title": "December 21",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%2021",
+      "pubdate": "Sat, 21 Dec 2024 17:00:00 +0100"
+    },
+    {
+      "title": "M1 autópálya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1%20aut%C3%B3p%C3%A1lya",
+      "pubdate": "Sat, 21 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Winterfest",
@@ -49,6 +69,11 @@
     {
       "title": "Magdeburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magdeburg",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Tamás névnap",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tam%C3%A1s%20n%C3%A9vnap",
       "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
     },
     {
@@ -75,31 +100,6 @@
       "title": "Lázár János",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
       "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
-      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Isack Hadjar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Isack%20Hadjar",
-      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Németország",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9metorsz%C3%A1g",
-      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Weisz Fanni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Weisz%20Fanni",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Gál Petra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1l%20Petra",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
     }
   ]
 }
