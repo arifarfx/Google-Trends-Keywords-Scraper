@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 23:59:32",
+  "lastUpdate": "23-12-2024 , 01:51:43",
   "data": [
     {
       "title": "Elon Musk",
@@ -12,9 +12,19 @@
       "pubdate": "Mon, 23 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Gary Anderson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gary%20Anderson",
+      "pubdate": "Mon, 23 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "Panama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Panama",
       "pubdate": "Mon, 23 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid – Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid%20%E2%80%93%20Sevilla",
+      "pubdate": "Sun, 22 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Wolfsburg – Dortmund",
@@ -25,11 +35,6 @@
       "title": "Tottenham – Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tottenham%20%E2%80%93%20Liverpool",
       "pubdate": "Sun, 22 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Real Madrid – Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid%20%E2%80%93%20Sevilla",
-      "pubdate": "Sun, 22 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Spanische Weihnachtslotterie El Gordo",
@@ -47,19 +52,9 @@
       "pubdate": "Sun, 22 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Loi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loi",
-      "pubdate": "Sun, 22 Dec 2024 00:00:00 +0100"
-    },
-    {
       "title": "4. Advent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#4.%20Advent",
       "pubdate": "Sun, 22 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Kerstin Ott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kerstin%20Ott",
-      "pubdate": "Sun, 22 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Opfer Magdeburg",
@@ -100,6 +95,11 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
       "pubdate": "Sun, 22 Dec 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Hugh Grant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hugh%20Grant",
+      "pubdate": "Sun, 22 Dec 2024 22:00:00 +0100"
     }
   ]
 }
