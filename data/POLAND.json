@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 23:59:34",
+  "lastUpdate": "05-01-2025 , 01:56:52",
   "data": [
     {
       "title": "Aleksandra Mirosław",
@@ -22,14 +22,14 @@
       "pubdate": "Sat, 04 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Tatiana Okupnik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tatiana%20Okupnik",
-      "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Jeff Baena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jeff%20Baena",
       "pubdate": "Sat, 04 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Tatiana Okupnik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tatiana%20Okupnik",
+      "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Brighton – Arsenal",
@@ -42,6 +42,11 @@
       "pubdate": "Sat, 04 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "HMPV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#HMPV",
+      "pubdate": "Sat, 04 Jan 2025 02:00:00 +0100"
+    },
+    {
       "title": "Robert Janowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Robert%20Janowski",
       "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
@@ -52,18 +57,13 @@
       "pubdate": "Sat, 04 Jan 2025 01:00:00 +0100"
     },
     {
-      "title": "HMPV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#HMPV",
-      "pubdate": "Sat, 04 Jan 2025 02:00:00 +0100"
-    },
-    {
       "title": "Premier Słowacji Robert Fico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Premier%20S%C5%82owacji%20Robert%20Fico",
       "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Donald Tusk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Tusk",
+      "title": "Prezydent Andrzej Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Andrzej%20Duda",
       "pubdate": "Sat, 04 Jan 2025 08:00:00 +0100"
     },
     {
@@ -82,24 +82,24 @@
       "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Małgorzata Ostrowska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Ostrowska",
-      "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Wilfredo Leon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wilfredo%20Leon",
       "pubdate": "Sat, 04 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Crystal Palace – Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Crystal%20Palace%20%E2%80%93%20Chelsea",
-      "pubdate": "Sat, 04 Jan 2025 16:00:00 +0100"
-    },
-    {
       "title": "Ksawery Masiuk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksawery%20Masiuk",
       "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Małgorzata Ostrowska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Ostrowska",
+      "pubdate": "Sat, 04 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Crystal Palace – Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Crystal%20Palace%20%E2%80%93%20Chelsea",
+      "pubdate": "Sat, 04 Jan 2025 16:00:00 +0100"
     }
   ]
 }
