@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 05:35:28",
+  "lastUpdate": "11-01-2025 , 05:45:14",
   "data": [
     {
       "title": "Pro League",
@@ -22,14 +22,14 @@
       "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Standard  Kortrijk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%20Kortrijk",
-      "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
-    },
-    {
       "title": "Nora Gharib",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nora%20Gharib",
       "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Standard  Kortrijk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%20Kortrijk",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Tesla",

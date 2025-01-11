@@ -1,16 +1,6 @@
 {
-  "lastUpdate": "11-01-2025 , 05:35:28",
+  "lastUpdate": "11-01-2025 , 05:45:14",
   "data": [
-    {
-      "title": "Early Access",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Early%20Access",
-      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Beethoven",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Beethoven",
-      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
-    },
     {
       "title": "Dortmund – Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20%E2%80%93%20Leverkusen",
@@ -37,14 +27,19 @@
       "pubdate": "Fri, 10 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Senta Berger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Senta%20Berger",
-      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+      "title": "Fritz Karl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fritz%20Karl",
+      "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Los Angeles Waldbrände",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Los%20Angeles%20Waldbr%C3%A4nde",
       "pubdate": "Fri, 10 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Senta Berger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Senta%20Berger",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Gina-Lisa",
@@ -100,6 +95,11 @@
       "title": "Arabella Kiesbauer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arabella%20Kiesbauer",
       "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Venezuela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Venezuela",
+      "pubdate": "Fri, 10 Jan 2025 16:00:00 +0100"
     }
   ]
 }
