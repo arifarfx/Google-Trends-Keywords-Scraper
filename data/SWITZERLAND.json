@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "12-01-2025 , 01:27:40",
+  "lastUpdate": "12-01-2025 , 02:45:33",
   "data": [
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
-      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
-    },
     {
       "title": "Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
@@ -17,13 +12,13 @@
       "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "ZSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
+      "title": "NFL-Playoffs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL-Playoffs",
       "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "NFL-Playoffs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL-Playoffs",
+      "title": "ZSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
       "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
     },
     {
@@ -57,6 +52,11 @@
       "pubdate": "Sat, 11 Jan 2025 10:00:00 +0100"
     },
     {
+      "title": "Torino  Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Torino%20%20Juventus",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
       "title": "FA Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA%20Cup",
       "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
@@ -77,11 +77,6 @@
       "pubdate": "Sat, 11 Jan 2025 07:00:00 +0100"
     },
     {
-      "title": "MATTHIAS REIM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MATTHIAS%20REIM",
-      "pubdate": "Sat, 11 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "Andrea Berg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Berg",
       "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Adelboden Weltcup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adelboden%20Weltcup",
       "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Viola Amherd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Viola%20Amherd",
+      "pubdate": "Sat, 11 Jan 2025 18:00:00 +0100"
     }
   ]
 }
