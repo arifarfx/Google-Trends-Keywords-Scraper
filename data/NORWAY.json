@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 00:43:28",
+  "lastUpdate": "15-01-2025 , 02:05:16",
   "data": [
     {
       "title": "Brentford mot Man City",
@@ -32,14 +32,14 @@
       "pubdate": "Tue, 14 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Pep Guardiola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pep%20Guardiola",
-      "pubdate": "Tue, 14 Jan 2025 14:00:00 +0100"
-    },
-    {
       "title": "Bonnie Blue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bonnie%20Blue",
       "pubdate": "Tue, 14 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Pep Guardiola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pep%20Guardiola",
+      "pubdate": "Tue, 14 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Jessica Simpson",
@@ -72,11 +72,6 @@
       "pubdate": "Tue, 14 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City",
-      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "DJI Flip",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DJI%20Flip",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "håndball-VM 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#h%C3%A5ndball-VM%202025",
       "pubdate": "Mon, 13 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Vipers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vipers",
+      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0100"
     }
   ]
 }
