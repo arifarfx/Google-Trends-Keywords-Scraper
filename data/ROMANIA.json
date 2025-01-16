@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 23:59:35",
+  "lastUpdate": "16-01-2025 , 01:46:24",
   "data": [
     {
       "title": "Arsenal - Tottenham",
@@ -27,11 +27,6 @@
       "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
     },
     {
-      "title": "Tichet de masă",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tichet%20de%20mas%C4%83",
-      "pubdate": "Wed, 15 Jan 2025 21:00:00 +0200"
-    },
-    {
       "title": "Alex Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Jones",
       "pubdate": "Wed, 15 Jan 2025 12:00:00 +0200"
@@ -55,11 +50,6 @@
       "title": "Iliescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iliescu",
       "pubdate": "Wed, 15 Jan 2025 22:00:00 +0200"
-    },
-    {
-      "title": "Klaus Iohannis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Klaus%20Iohannis",
-      "pubdate": "Wed, 15 Jan 2025 16:00:00 +0200"
     },
     {
       "title": "DJI Flip",
@@ -97,9 +87,19 @@
       "pubdate": "Wed, 15 Jan 2025 08:00:00 +0200"
     },
     {
+      "title": "Liviu Guță",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liviu%20Gu%C8%9B%C4%83",
+      "pubdate": "Wed, 15 Jan 2025 09:00:00 +0200"
+    },
+    {
       "title": "Mihai Eminescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20Eminescu",
       "pubdate": "Tue, 14 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Nottm Forest  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nottm%20Forest%20%20Liverpool",
+      "pubdate": "Tue, 14 Jan 2025 22:00:00 +0200"
     }
   ]
 }

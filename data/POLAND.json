@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 23:59:35",
+  "lastUpdate": "16-01-2025 , 01:46:24",
   "data": [
     {
       "title": "Dawid Ogrodnik",
@@ -77,19 +77,9 @@
       "pubdate": "Wed, 15 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Nottingham Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nottingham%20Forest",
-      "pubdate": "Wed, 15 Jan 2025 01:00:00 +0100"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSG",
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Magdalena Fręch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Fr%C4%99ch",
-      "pubdate": "Wed, 15 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Brad Pitt",
@@ -97,9 +87,19 @@
       "pubdate": "Wed, 15 Jan 2025 13:00:00 +0100"
     },
     {
+      "title": "Magdalena Fręch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Fr%C4%99ch",
+      "pubdate": "Wed, 15 Jan 2025 09:00:00 +0100"
+    },
+    {
       "title": "Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter",
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Switch 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Switch%202",
+      "pubdate": "Wed, 15 Jan 2025 12:00:00 +0100"
     }
   ]
 }
