@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-01-2025 , 06:43:04",
+  "lastUpdate": "19-01-2025 , 06:53:01",
   "data": [
+    {
+      "title": "CDU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
+      "pubdate": "Sun, 19 Jan 2025 07:00:00 +0100"
+    },
     {
       "title": "HSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
@@ -75,11 +80,6 @@
       "title": "Australian Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Australian%20Open",
       "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Werder Bremen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-      "pubdate": "Sun, 12 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "RB Leipzig",
