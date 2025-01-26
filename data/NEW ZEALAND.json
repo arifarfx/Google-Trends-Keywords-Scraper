@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2025 , 23:59:14",
+  "lastUpdate": "26-01-2025 , 01:49:29",
   "data": [
     {
       "title": "Mangawhai",
@@ -57,14 +57,19 @@
       "pubdate": "Sat, 25 Jan 2025 13:00:00 +1300"
     },
     {
+      "title": "West Indies vs Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Pakistan",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +1300"
+    },
+    {
       "title": "Weather warnings Storm eowyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20warnings%20Storm%20eowyn",
       "pubdate": "Sat, 25 Jan 2025 02:00:00 +1300"
     },
     {
-      "title": "West Indies vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Pakistan",
-      "pubdate": "Sat, 25 Jan 2025 20:00:00 +1300"
+      "title": "Perth Sevens 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Perth%20Sevens%202025",
+      "pubdate": "Sat, 25 Jan 2025 08:00:00 +1300"
     },
     {
       "title": "DeepSeek",
@@ -95,11 +100,6 @@
       "title": "Sabalenka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sabalenka",
       "pubdate": "Fri, 24 Jan 2025 20:00:00 +1300"
-    },
-    {
-      "title": "Oscar nominations 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oscar%20nominations%202025",
-      "pubdate": "Fri, 24 Jan 2025 08:00:00 +1300"
     }
   ]
 }
