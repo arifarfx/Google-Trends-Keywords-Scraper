@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "27-01-2025 , 15:39:21",
+  "lastUpdate": "27-01-2025 , 15:49:27",
   "data": [
-    {
-      "title": "Dolar hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dolar%20hoy",
-      "pubdate": "Mon, 27 Jan 2025 06:00:00 -0500"
-    },
     {
       "title": "Semana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Semana",
       "pubdate": "Mon, 27 Jan 2025 05:00:00 -0500"
     },
     {
-      "title": "La W Radio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20W%20Radio",
+      "title": "DeepSeek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#DeepSeek",
+      "pubdate": "Mon, 27 Jan 2025 10:00:00 -0500"
+    },
+    {
+      "title": "La W",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20W",
       "pubdate": "Mon, 27 Jan 2025 08:00:00 -0500"
+    },
+    {
+      "title": "Marco Rubio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Marco%20Rubio",
+      "pubdate": "Mon, 27 Jan 2025 09:00:00 -0500"
     },
     {
       "title": "Lamine Yamal",
@@ -42,6 +47,11 @@
       "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
     },
     {
+      "title": "Dolar hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dolar%20hoy",
+      "pubdate": "Sun, 26 Jan 2025 23:00:00 -0500"
+    },
+    {
       "title": "Santa Fe  Deportivo Pereira",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Santa%20Fe%20%20Deportivo%20Pereira",
       "pubdate": "Sun, 26 Jan 2025 15:00:00 -0500"
@@ -60,11 +70,6 @@
       "title": "Fulham-Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fulham-Manchester%20United",
       "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
-    },
-    {
-      "title": "La Casa de los Famosos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Casa%20de%20los%20Famosos",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 -0500"
     },
     {
       "title": "Rayo Vallecano  Girona",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 26 Jan 2025 09:00:00 -0500"
     },
     {
-      "title": "Caracol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 -0500"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#FC%20Barcelona",
-      "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
+      "title": "Dolar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dolar",
+      "pubdate": "Sun, 26 Jan 2025 23:00:00 -0500"
     }
   ]
 }

@@ -1,30 +1,15 @@
 {
-  "lastUpdate": "27-01-2025 , 15:39:22",
+  "lastUpdate": "27-01-2025 , 15:49:28",
   "data": [
     {
-      "title": "DeepSeek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#DeepSeek",
+      "title": "Ολυμπιακοσ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CE%BF%CF%83",
+      "pubdate": "Mon, 27 Jan 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Nvidia",
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
-    },
-    {
-      "title": "Κρανοσ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CF%81%CE%B1%CE%BD%CE%BF%CF%83",
-      "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
-    },
-    {
-      "title": "ΤΖΟΚΕΡ 26/1/25",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%96%CE%9F%CE%9A%CE%95%CE%A1%2026/1/25",
-      "pubdate": "Mon, 27 Jan 2025 07:00:00 +0200"
-    },
-    {
-      "title": "Μπαρτσελόνα",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CF%80%CE%B1%CF%81%CF%84%CF%83%CE%B5%CE%BB%CF%8C%CE%BD%CE%B1",
-      "pubdate": "Mon, 27 Jan 2025 04:00:00 +0200"
-    },
-    {
-      "title": "Αρησ σερβεταλησ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%81%CE%B7%CF%83%20%CF%83%CE%B5%CF%81%CE%B2%CE%B5%CF%84%CE%B1%CE%BB%CE%B7%CF%83",
-      "pubdate": "Mon, 27 Jan 2025 14:00:00 +0200"
     },
     {
       "title": "Ιωαννιδησ",
@@ -32,8 +17,28 @@
       "pubdate": "Mon, 27 Jan 2025 12:00:00 +0200"
     },
     {
-      "title": "Γροιλανδία",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CF%81%CE%BF%CE%B9%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1",
+      "title": "Σερβεταλησ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%B5%CF%81%CE%B2%CE%B5%CF%84%CE%B1%CE%BB%CE%B7%CF%83",
+      "pubdate": "Mon, 27 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "ΤΖΟΚΕΡ 26/1/25",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%96%CE%9F%CE%9A%CE%95%CE%A1%2026/1/25",
+      "pubdate": "Mon, 27 Jan 2025 07:00:00 +0200"
+    },
+    {
+      "title": "Κρανοσ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CF%81%CE%B1%CE%BD%CE%BF%CF%83",
+      "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
+    },
+    {
+      "title": "Μπαρτσελόνα",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CF%80%CE%B1%CF%81%CF%84%CF%83%CE%B5%CE%BB%CF%8C%CE%BD%CE%B1",
+      "pubdate": "Mon, 27 Jan 2025 04:00:00 +0200"
+    },
+    {
+      "title": "ΕΡΤ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%A1%CE%A4",
       "pubdate": "Mon, 27 Jan 2025 12:00:00 +0200"
     },
     {
@@ -42,9 +47,9 @@
       "pubdate": "Mon, 27 Jan 2025 12:00:00 +0200"
     },
     {
-      "title": "Συνταξεισ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%85%CE%BD%CF%84%CE%B1%CE%BE%CE%B5%CE%B9%CF%83",
-      "pubdate": "Mon, 27 Jan 2025 11:00:00 +0200"
+      "title": "Γροιλανδία",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CF%81%CE%BF%CE%B9%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1",
+      "pubdate": "Mon, 27 Jan 2025 12:00:00 +0200"
     },
     {
       "title": "Μαριλιτα λαμπροπουλου",
@@ -52,9 +57,34 @@
       "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
     },
     {
+      "title": "3χρονο ηρακλειο",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#3%CF%87%CF%81%CE%BF%CE%BD%CE%BF%20%CE%B7%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%B9%CE%BF",
+      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
+    },
+    {
       "title": "Επικουρικεσ συνταξεισ φεβρουαριου",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CF%85%CF%81%CE%B9%CE%BA%CE%B5%CF%83%20%CF%83%CF%85%CE%BD%CF%84%CE%B1%CE%BE%CE%B5%CE%B9%CF%83%20%CF%86%CE%B5%CE%B2%CF%81%CE%BF%CF%85%CE%B1%CF%81%CE%B9%CE%BF%CF%85",
       "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
+    },
+    {
+      "title": "Βουλγαρακη",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%BF%CF%85%CE%BB%CE%B3%CE%B1%CF%81%CE%B1%CE%BA%CE%B7",
+      "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "Alter Ego Media μετοχη",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Alter%20Ego%20Media%20%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%B7",
+      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
+    },
+    {
+      "title": "Τριων ιεραρχων",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CF%81%CE%B9%CF%89%CE%BD%20%CE%B9%CE%B5%CF%81%CE%B1%CF%81%CF%87%CF%89%CE%BD",
+      "pubdate": "Mon, 27 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Ηχητικο τεμπη",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%97%CF%87%CE%B7%CF%84%CE%B9%CE%BA%CE%BF%20%CF%84%CE%B5%CE%BC%CF%80%CE%B7",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
     },
     {
       "title": "ΠΑΟΚ λεβαδειακοσ",
@@ -70,36 +100,6 @@
       "title": "ΛΑΜΙΑ ΑΡΗΣ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%91%CE%9C%CE%99%CE%91%20%CE%91%CE%A1%CE%97%CE%A3",
       "pubdate": "Sun, 26 Jan 2025 15:00:00 +0200"
-    },
-    {
-      "title": "Μητροπολιτησ κορυτσασ ιωαννησ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B7%CF%84%CF%81%CE%BF%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B7%CF%83%20%CE%BA%CE%BF%CF%81%CF%85%CF%84%CF%83%CE%B1%CF%83%20%CE%B9%CF%89%CE%B1%CE%BD%CE%BD%CE%B7%CF%83",
-      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0200"
-    },
-    {
-      "title": "ΠΑΝΙΩΝΙΟΣ κηφισια",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%91%CE%9D%CE%99%CE%A9%CE%9D%CE%99%CE%9F%CE%A3%20%CE%BA%CE%B7%CF%86%CE%B9%CF%83%CE%B9%CE%B1",
-      "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-    },
-    {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Milan",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
-    },
-    {
-      "title": "Αδωνισ γεωργιαδησ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%B4%CF%89%CE%BD%CE%B9%CF%83%20%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%B1%CE%B4%CE%B7%CF%83",
-      "pubdate": "Sun, 26 Jan 2025 19:00:00 +0200"
-    },
-    {
-      "title": "ΕΝΦΙΑ 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CE%9D%CE%A6%CE%99%CE%91%202025",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0200"
-    },
-    {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Sinner",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0200"
     }
   ]
 }
