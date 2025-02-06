@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "05-02-2025 , 23:58:41",
+  "lastUpdate": "06-02-2025 , 01:48:09",
   "data": [
+    {
+      "title": "Gázolaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj",
+      "pubdate": "Thu, 06 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Pataki Ági",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pataki%20%C3%81gi",
       "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "LEGANÉS–REAL MADRID",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#LEGAN%C3%89S%E2%80%93REAL%20MADRID",
-      "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "FTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
       "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Julio Romao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julio%20Romao",
+      "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Iker Casillas",
@@ -50,11 +55,6 @@
       "title": "Nutria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nutria",
       "pubdate": "Wed, 05 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Julio Romao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julio%20Romao",
-      "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Dacia",
