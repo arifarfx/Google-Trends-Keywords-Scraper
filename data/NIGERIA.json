@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 00:37:04",
+  "lastUpdate": "07-02-2025 , 02:05:28",
   "data": [
     {
       "title": "Gumbo",
@@ -27,14 +27,14 @@
       "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
+      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "Columbus Irosanga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Columbus%20Irosanga",
       "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Irv Gotti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Irv%20Gotti",
-      "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Marcelo",
@@ -42,9 +42,24 @@
       "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
     },
     {
+      "title": "Irv Gotti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Irv%20Gotti",
+      "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Invincible season 3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Invincible%20season%203",
+      "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "Chelsea Women",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20Women",
       "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Kemi Badenoch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kemi%20Badenoch",
+      "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Joao Felix",
@@ -57,19 +72,9 @@
       "pubdate": "Thu, 06 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "Kemi Badenoch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kemi%20Badenoch",
-      "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
-    },
-    {
       "title": "EFL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#EFL",
       "pubdate": "Thu, 06 Feb 2025 07:00:00 +0100"
-    },
-    {
-      "title": "Invincible season 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Invincible%20season%203",
-      "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Osasuna",
@@ -95,11 +100,6 @@
       "title": "Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leverkusen",
       "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Pat Ugwu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pat%20Ugwu",
-      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
     }
   ]
 }

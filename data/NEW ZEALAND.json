@@ -1,15 +1,35 @@
 {
-  "lastUpdate": "07-02-2025 , 00:37:03",
+  "lastUpdate": "07-02-2025 , 02:05:28",
   "data": [
+    {
+      "title": "Epic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
+      "pubdate": "Fri, 07 Feb 2025 14:00:00 +1300"
+    },
+    {
+      "title": "Super Rugby Fantasy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Super%20Rugby%20Fantasy",
+      "pubdate": "Fri, 07 Feb 2025 10:00:00 +1300"
+    },
+    {
+      "title": "Apple Cider Vinegar Netflix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Apple%20Cider%20Vinegar%20Netflix",
+      "pubdate": "Fri, 07 Feb 2025 13:00:00 +1300"
+    },
+    {
+      "title": "Herring",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Herring",
+      "pubdate": "Fri, 07 Feb 2025 11:00:00 +1300"
+    },
     {
       "title": "Guy Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Guy%20Williams",
       "pubdate": "Fri, 07 Feb 2025 09:00:00 +1300"
     },
     {
-      "title": "Herring",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Herring",
-      "pubdate": "Fri, 07 Feb 2025 11:00:00 +1300"
+      "title": "Ep",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ep",
+      "pubdate": "Fri, 07 Feb 2025 14:00:00 +1300"
     },
     {
       "title": "Irv Gotti",
@@ -47,14 +67,19 @@
       "pubdate": "Thu, 06 Feb 2025 14:00:00 +1300"
     },
     {
+      "title": "Mark Williams NBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mark%20Williams%20NBA",
+      "pubdate": "Thu, 06 Feb 2025 19:00:00 +1300"
+    },
+    {
       "title": "Jimmy Butler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Butler",
       "pubdate": "Thu, 06 Feb 2025 15:00:00 +1300"
     },
     {
-      "title": "Mark Williams NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mark%20Williams%20NBA",
-      "pubdate": "Thu, 06 Feb 2025 19:00:00 +1300"
+      "title": "NBA trades",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20trades",
+      "pubdate": "Thu, 06 Feb 2025 18:00:00 +1300"
     },
     {
       "title": "Sri Lanka vs Australia",
@@ -75,31 +100,6 @@
       "title": "Jurassic World Rebirth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jurassic%20World%20Rebirth",
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +1300"
-    },
-    {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#FA%20Cup",
-      "pubdate": "Thu, 06 Feb 2025 10:00:00 +1300"
-    },
-    {
-      "title": "Kinda Pregnant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kinda%20Pregnant",
-      "pubdate": "Thu, 06 Feb 2025 16:00:00 +1300"
-    },
-    {
-      "title": "Waitangi Day festival",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Waitangi%20Day%20festival",
-      "pubdate": "Thu, 06 Feb 2025 16:00:00 +1300"
-    },
-    {
-      "title": "NBA trade deadline",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20trade%20deadline",
-      "pubdate": "Thu, 06 Feb 2025 19:00:00 +1300"
-    },
-    {
-      "title": "Interest rates nz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Interest%20rates%20nz",
-      "pubdate": "Thu, 06 Feb 2025 08:00:00 +1300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 00:37:01",
+  "lastUpdate": "07-02-2025 , 02:05:26",
   "data": [
     {
       "title": "Liverpool–Tottenham",
@@ -57,6 +57,11 @@
       "pubdate": "Thu, 06 Feb 2025 19:00:00 +0100"
     },
     {
+      "title": "Hollik István",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hollik%20Istv%C3%A1n",
+      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Gázolaj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj",
       "pubdate": "Thu, 06 Feb 2025 01:00:00 +0100"
@@ -67,19 +72,9 @@
       "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Hollik István",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hollik%20Istv%C3%A1n",
-      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Lara Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lara%20Trump",
       "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Fekete László",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20L%C3%A1szl%C3%B3",
-      "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "OTP Bank Liga",
@@ -100,6 +95,11 @@
       "title": "Gábor Zsazsa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1bor%20Zsazsa",
       "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Black Sabbath",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Black%20Sabbath",
+      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
     }
   ]
 }
