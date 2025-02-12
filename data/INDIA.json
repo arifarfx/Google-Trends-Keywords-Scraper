@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 06:38:39",
+  "lastUpdate": "12-02-2025 , 06:49:24",
   "data": [
     {
       "title": "Sri Lanka vs Australia",
@@ -22,6 +22,11 @@
       "pubdate": "Wed, 12 Feb 2025 08:30:00 +0530"
     },
     {
+      "title": "Man City vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City%20vs%20Real%20Madrid",
+      "pubdate": "Tue, 11 Feb 2025 10:30:00 +0530"
+    },
+    {
       "title": "Ravidas Jayanti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ravidas%20Jayanti",
       "pubdate": "Tue, 11 Feb 2025 17:30:00 +0530"
@@ -42,18 +47,13 @@
       "pubdate": "Mon, 10 Feb 2025 19:30:00 +0530"
     },
     {
-      "title": "Man City vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City%20vs%20Real%20Madrid",
-      "pubdate": "Mon, 10 Feb 2025 19:30:00 +0530"
-    },
-    {
       "title": "Ranveer Allahbadia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ranveer%20Allahbadia",
       "pubdate": "Mon, 10 Feb 2025 12:30:00 +0530"
     },
     {
-      "title": "Sensex Nifty Stock Market fall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sensex%20Nifty%20Stock%20Market%20fall",
+      "title": "Sensex Nifty stock market fall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sensex%20Nifty%20stock%20market%20fall",
       "pubdate": "Mon, 10 Feb 2025 18:30:00 +0530"
     },
     {
@@ -72,14 +72,14 @@
       "pubdate": "Sun, 09 Feb 2025 17:30:00 +0530"
     },
     {
-      "title": "Manipur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manipur",
-      "pubdate": "Sun, 09 Feb 2025 23:30:00 +0530"
-    },
-    {
       "title": "India Got Latent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20Got%20Latent",
       "pubdate": "Sun, 09 Feb 2025 19:30:00 +0530"
+    },
+    {
+      "title": "Manipur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manipur",
+      "pubdate": "Sun, 09 Feb 2025 23:30:00 +0530"
     },
     {
       "title": "Delhi Election Result",
@@ -92,14 +92,14 @@
       "pubdate": "Sat, 08 Feb 2025 09:30:00 +0530"
     },
     {
-      "title": "Rachin Ravindra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rachin%20Ravindra",
-      "pubdate": "Sat, 08 Feb 2025 18:30:00 +0530"
-    },
-    {
       "title": "Ccl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ccl%202025",
       "pubdate": "Sat, 08 Feb 2025 19:30:00 +0530"
+    },
+    {
+      "title": "Teddy Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Teddy%20Day",
+      "pubdate": "Sat, 08 Feb 2025 18:30:00 +0530"
     }
   ]
 }
