@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "16-02-2025 , 00:37:38",
+  "lastUpdate": "16-02-2025 , 02:11:42",
   "data": [
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
       "pubdate": "Sat, 15 Feb 2025 09:00:00 -0800"
+    },
+    {
+      "title": "Alabama basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alabama%20basketball",
+      "pubdate": "Sat, 15 Feb 2025 10:00:00 -0800"
     },
     {
       "title": "Earthquake",
@@ -17,14 +22,19 @@
       "pubdate": "Sat, 15 Feb 2025 08:00:00 -0800"
     },
     {
-      "title": "Alabama basketball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alabama%20basketball",
-      "pubdate": "Sat, 15 Feb 2025 10:00:00 -0800"
-    },
-    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 07:00:00 -0800"
+    },
+    {
+      "title": "Purdue basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20basketball",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
+    },
+    {
+      "title": "Luigi Mangione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luigi%20Mangione",
+      "pubdate": "Sat, 15 Feb 2025 11:00:00 -0800"
     },
     {
       "title": "Arkansas basketball",
@@ -32,9 +42,34 @@
       "pubdate": "Sat, 15 Feb 2025 11:00:00 -0800"
     },
     {
+      "title": "USA vs Canada hockey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Canada%20hockey",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
+    },
+    {
+      "title": "Nirvana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nirvana",
+      "pubdate": "Sat, 15 Feb 2025 16:00:00 -0800"
+    },
+    {
+      "title": "Lorne Michaels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lorne%20Michaels",
+      "pubdate": "Sat, 15 Feb 2025 16:00:00 -0800"
+    },
+    {
       "title": "Bayern Munich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bayern%20Munich",
       "pubdate": "Sat, 15 Feb 2025 15:00:00 -0800"
+    },
+    {
+      "title": "3-point contest 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#3-point%20contest%202025",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 -0800"
+    },
+    {
+      "title": "NBA All-Star Weekend",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20All-Star%20Weekend",
+      "pubdate": "Fri, 14 Feb 2025 02:00:00 -0800"
     },
     {
       "title": "Ashley St. Clair",
@@ -45,11 +80,6 @@
       "title": "SNL50",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SNL50",
       "pubdate": "Fri, 14 Feb 2025 18:00:00 -0800"
-    },
-    {
-      "title": "NBA All-Star 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20All-Star%202025",
-      "pubdate": "Fri, 14 Feb 2025 14:00:00 -0800"
     },
     {
       "title": "Día de San Valentín",
@@ -70,36 +100,6 @@
       "title": "Kayaker swallowed by whale",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kayaker%20swallowed%20by%20whale",
       "pubdate": "Fri, 14 Feb 2025 07:00:00 -0800"
-    },
-    {
-      "title": "Orlando City  Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orlando%20City%20%20Inter%20Miami",
-      "pubdate": "Fri, 14 Feb 2025 18:00:00 -0800"
-    },
-    {
-      "title": "Rising Stars game",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rising%20Stars%20game",
-      "pubdate": "Fri, 14 Feb 2025 19:00:00 -0800"
-    },
-    {
-      "title": "Chernobyl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chernobyl",
-      "pubdate": "Fri, 14 Feb 2025 07:00:00 -0800"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
-      "pubdate": "Fri, 14 Feb 2025 13:00:00 -0800"
-    },
-    {
-      "title": "Valentine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Valentine",
-      "pubdate": "Fri, 14 Feb 2025 05:00:00 -0800"
-    },
-    {
-      "title": "Keyshawn Davis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keyshawn%20Davis",
-      "pubdate": "Fri, 14 Feb 2025 20:00:00 -0800"
     }
   ]
 }

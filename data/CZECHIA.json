@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2025 , 00:37:40",
+  "lastUpdate": "16-02-2025 , 02:11:44",
   "data": [
     {
       "title": "Karviná – Sparta",
@@ -17,14 +17,14 @@
       "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Dungeons and Dragons",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dungeons%20and%20Dragons",
-      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
-    },
-    {
       "title": "Daniel Krejčík",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20Krej%C4%8D%C3%ADk",
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Dungeons and Dragons",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dungeons%20and%20Dragons",
+      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Man City – Newcastle",
@@ -62,19 +62,24 @@
       "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
+      "title": "Crystal Palace – Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Crystal%20Palace%20%E2%80%93%20Everton",
+      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Dymytry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dymytry",
       "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Brighton – Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brighton%20%E2%80%93%20Chelsea",
-      "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "Jd Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jd%20Vance",
       "pubdate": "Fri, 14 Feb 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Brighton – Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brighton%20%E2%80%93%20Chelsea",
+      "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Girona – Getafe",
@@ -90,11 +95,6 @@
       "title": "Marilyn Manson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marilyn%20Manson",
       "pubdate": "Fri, 14 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Václav Kopta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Kopta",
-      "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Lucie Benešová",

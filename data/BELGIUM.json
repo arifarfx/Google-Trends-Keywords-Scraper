@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "16-02-2025 , 00:37:39",
+  "lastUpdate": "16-02-2025 , 02:11:43",
   "data": [
+    {
+      "title": "Missbelgium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Missbelgium",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Pinto da Costa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pinto%20da%20Costa",
@@ -27,14 +32,14 @@
       "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
-      "title": "Thermomix TM7",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thermomix%20TM7",
-      "pubdate": "Sat, 15 Feb 2025 01:00:00 +0100"
-    },
-    {
       "title": "Miss Belgique 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miss%20Belgique%202025",
       "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Thermomix TM7",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thermomix%20TM7",
+      "pubdate": "Sat, 15 Feb 2025 01:00:00 +0100"
     },
     {
       "title": "Leicester – Arsenal",
@@ -42,14 +47,14 @@
       "pubdate": "Sat, 15 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Marseille – Saint-Étienne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Saint-%C3%89tienne",
-      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
-    },
-    {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jannik%20Sinner",
       "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Marseille – Saint-Étienne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Saint-%C3%89tienne",
+      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "600 jaar KU Leuven",
@@ -57,14 +62,9 @@
       "pubdate": "Sat, 15 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "OHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
-      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Timothée Chalamet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
-      "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
+      "title": "Clemenceau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clemenceau",
+      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     },
     {
       "title": "Toulouse – paris-sg",
@@ -72,13 +72,18 @@
       "pubdate": "Sat, 15 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
-      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
+      "title": "Timothée Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
+      "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Clemenceau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clemenceau",
+      "title": "OHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
+      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
       "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "OH louvain – Dender",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OH%20louvain%20%E2%80%93%20Dender",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Mayane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mayane",
-      "pubdate": "Sat, 15 Feb 2025 00:00:00 +0100"
     }
   ]
 }
