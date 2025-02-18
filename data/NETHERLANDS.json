@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "17-02-2025 , 23:52:14",
+  "lastUpdate": "18-02-2025 , 00:48:12",
   "data": [
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
-      "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
-    },
     {
       "title": "Linda de Mol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20de%20Mol",
@@ -40,6 +35,11 @@
       "title": "Lieke marsman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20marsman",
       "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Davy Klaassen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davy%20Klaassen",
+      "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Graafschap",
