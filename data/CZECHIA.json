@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2025 , 23:58:46",
+  "lastUpdate": "19-02-2025 , 01:49:27",
   "data": [
     {
       "title": "Cupra",
@@ -42,14 +42,14 @@
       "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
     },
     {
-      "title": "Adéla Šípová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ad%C3%A9la%20%C5%A0%C3%ADpov%C3%A1",
-      "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
-    },
-    {
       "title": "Buffon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Buffon",
       "pubdate": "Tue, 18 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Jd Vance",
@@ -59,6 +59,11 @@
     {
       "title": "Marco Rubio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marco%20Rubio",
+      "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Petr Janda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Janda",
       "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Post Malone Praha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Post%20Malone%20Praha",
       "pubdate": "Mon, 17 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-      "pubdate": "Mon, 17 Feb 2025 23:00:00 +0100"
     }
   ]
 }

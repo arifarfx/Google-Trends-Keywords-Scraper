@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2025 , 23:58:48",
+  "lastUpdate": "19-02-2025 , 01:49:29",
   "data": [
     {
       "title": "Návai Anikó",
@@ -7,9 +7,9 @@
       "pubdate": "Tue, 18 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "Milan–feyenoord",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan%E2%80%93feyenoord",
-      "pubdate": "Tue, 18 Feb 2025 19:00:00 +0100"
+      "title": "Bayern münchen–celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93celtic",
+      "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Barcelona",
@@ -17,24 +17,19 @@
       "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Bayern münchen–celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93celtic",
-      "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "Vörös kód hideg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%B6r%C3%B6s%20k%C3%B3d%20hideg",
       "pubdate": "Tue, 18 Feb 2025 06:00:00 +0100"
     },
     {
-      "title": "M4sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport",
-      "pubdate": "Tue, 18 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Ferenc pápa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
       "pubdate": "Tue, 18 Feb 2025 11:00:00 +0100"
+    },
+    {
+      "title": "M4sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport",
+      "pubdate": "Tue, 18 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "FC Barcelona",
@@ -67,19 +62,14 @@
       "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
     },
     {
-      "title": "Strabag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Strabag",
-      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
-    },
-    {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
       "pubdate": "Tue, 18 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Farm VIP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Farm%20VIP",
-      "pubdate": "Tue, 18 Feb 2025 18:00:00 +0100"
+      "title": "Strabag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Strabag",
+      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Pintér Béla",
@@ -100,6 +90,16 @@
       "title": "Guy Pearce",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guy%20Pearce",
       "pubdate": "Tue, 18 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Magyarország-Törökország",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g-T%C3%B6r%C3%B6korsz%C3%A1g",
+      "pubdate": "Tue, 18 Feb 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Földrengés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%B6ldreng%C3%A9s",
+      "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
     }
   ]
 }
