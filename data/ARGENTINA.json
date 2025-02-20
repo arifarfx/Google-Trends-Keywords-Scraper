@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2025 , 23:59:48",
+  "lastUpdate": "20-02-2025 , 01:50:27",
   "data": [
     {
       "title": "Real Madrid  Manchester City",
@@ -12,11 +12,6 @@
       "pubdate": "Wed, 19 Feb 2025 16:00:00 -0300"
     },
     {
-      "title": "Copa Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Libertadores",
-      "pubdate": "Wed, 19 Feb 2025 10:00:00 -0300"
-    },
-    {
       "title": "PSG  Stade Brestois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#PSG%20%20Stade%20Brestois",
       "pubdate": "Wed, 19 Feb 2025 17:00:00 -0300"
@@ -27,9 +22,24 @@
       "pubdate": "Wed, 19 Feb 2025 18:00:00 -0300"
     },
     {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami",
+      "pubdate": "Wed, 19 Feb 2025 22:00:00 -0300"
+    },
+    {
       "title": "Dortmund  Sporting Lisboa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dortmund%20%20Sporting%20Lisboa",
       "pubdate": "Wed, 19 Feb 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Defensa y Justicia  Racing de Córdoba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Defensa%20y%20Justicia%20%20Racing%20de%20C%C3%B3rdoba",
+      "pubdate": "Wed, 19 Feb 2025 21:00:00 -0300"
+    },
+    {
+      "title": "Clavicula",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clavicula",
+      "pubdate": "Wed, 19 Feb 2025 01:00:00 -0300"
     },
     {
       "title": "VTV",
@@ -40,11 +50,6 @@
       "title": "Hayden Davis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hayden%20Davis",
       "pubdate": "Wed, 19 Feb 2025 00:00:00 -0300"
-    },
-    {
-      "title": "Clavicula",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clavicula",
-      "pubdate": "Wed, 19 Feb 2025 01:00:00 -0300"
     },
     {
       "title": "Pez remo",
@@ -62,6 +67,11 @@
       "pubdate": "Wed, 19 Feb 2025 12:00:00 -0300"
     },
     {
+      "title": "Cristina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina",
+      "pubdate": "Wed, 19 Feb 2025 11:00:00 -0300"
+    },
+    {
       "title": "Emma Raducanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Emma%20Raducanu",
       "pubdate": "Wed, 19 Feb 2025 15:00:00 -0300"
@@ -72,14 +82,14 @@
       "pubdate": "Wed, 19 Feb 2025 00:00:00 -0300"
     },
     {
-      "title": "Jesica Cirio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jesica%20Cirio",
-      "pubdate": "Wed, 19 Feb 2025 12:00:00 -0300"
-    },
-    {
       "title": "Haaland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Haaland",
       "pubdate": "Wed, 19 Feb 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Jesica Cirio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jesica%20Cirio",
+      "pubdate": "Wed, 19 Feb 2025 12:00:00 -0300"
     },
     {
       "title": "Carlos Alcaraz",
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 19 Feb 2025 19:00:00 -0300"
     },
     {
-      "title": "Mauro Icardi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mauro%20Icardi",
-      "pubdate": "Wed, 19 Feb 2025 15:00:00 -0300"
-    },
-    {
       "title": "iPhone 16e",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#iPhone%2016e",
       "pubdate": "Wed, 19 Feb 2025 20:00:00 -0300"
-    },
-    {
-      "title": "Luisito Comunica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luisito%20Comunica",
-      "pubdate": "Wed, 19 Feb 2025 14:00:00 -0300"
     }
   ]
 }
