@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-02-2025 , 00:36:22",
+  "lastUpdate": "21-02-2025 , 02:06:30",
   "data": [
+    {
+      "title": "Big Time Rush",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Big%20Time%20Rush",
+      "pubdate": "Fri, 21 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Anderlecht-Fenerbahçe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht-Fenerbah%C3%A7e",
@@ -27,13 +32,13 @@
       "pubdate": "Thu, 20 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Galatasaray AZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray%20AZ",
+      "title": "Betis – La Gantoise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Betis%20%E2%80%93%20La%20Gantoise",
       "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Betis – La Gantoise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Betis%20%E2%80%93%20La%20Gantoise",
+      "title": "Galatasaray  AZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray%20%20AZ",
       "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Natalia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Natalia",
       "pubdate": "Thu, 20 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Rihanna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rihanna",
-      "pubdate": "Thu, 20 Feb 2025 08:00:00 +0100"
     }
   ]
 }

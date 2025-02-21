@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "21-02-2025 , 00:36:28",
+  "lastUpdate": "21-02-2025 , 02:06:37",
   "data": [
-    {
-      "title": "Shamrock Rovers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shamrock%20Rovers",
-      "pubdate": "Fri, 21 Feb 2025 00:00:00 +0100"
-    },
     {
       "title": "Bodø/Glimt mot Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20Twente",
@@ -15,6 +10,11 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
       "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Shamrock Rovers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Shamrock%20Rovers",
+      "pubdate": "Thu, 20 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Trump",
@@ -62,14 +62,14 @@
       "pubdate": "Thu, 20 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
-      "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
-    },
-    {
       "title": "Xpeng X9",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng%20X9",
       "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Haaland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
+      "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Bodø",
