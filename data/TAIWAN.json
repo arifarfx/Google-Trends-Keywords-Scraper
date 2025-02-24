@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-02-2025 , 23:58:43",
+  "lastUpdate": "24-02-2025 , 01:52:45",
   "data": [
+    {
+      "title": "伍祐城",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BC%8D%E7%A5%90%E5%9F%8E",
+      "pubdate": "Mon, 24 Feb 2025 09:00:00 +0800"
+    },
     {
       "title": "德國大選",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%B7%E5%9C%8B%E5%A4%A7%E9%81%B8",
@@ -37,11 +42,6 @@
       "pubdate": "Sun, 23 Feb 2025 00:00:00 +0800"
     },
     {
-      "title": "范冰冰",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8C%83%E5%86%B0%E5%86%B0",
-      "pubdate": "Sun, 23 Feb 2025 12:00:00 +0800"
-    },
-    {
       "title": "孫易磊",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E6%98%93%E7%A3%8A",
       "pubdate": "Sun, 23 Feb 2025 15:00:00 +0800"
@@ -52,14 +52,14 @@
       "pubdate": "Sun, 23 Feb 2025 21:00:00 +0800"
     },
     {
-      "title": "陳美鳳",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E7%BE%8E%E9%B3%B3",
-      "pubdate": "Sun, 23 Feb 2025 12:00:00 +0800"
-    },
-    {
       "title": "林志穎",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%BF%97%E7%A9%8E",
       "pubdate": "Sun, 23 Feb 2025 22:00:00 +0800"
+    },
+    {
+      "title": "陳美鳳",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E7%BE%8E%E9%B3%B3",
+      "pubdate": "Sun, 23 Feb 2025 12:00:00 +0800"
     },
     {
       "title": "胡瓜",

@@ -1,29 +1,24 @@
 {
-  "lastUpdate": "23-02-2025 , 23:58:34",
+  "lastUpdate": "24-02-2025 , 01:52:36",
   "data": [
-    {
-      "title": "Man City vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Liverpool",
-      "pubdate": "Mon, 24 Feb 2025 04:00:00 +1100"
-    },
     {
       "title": "USA vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20vs%20Australia",
       "pubdate": "Mon, 24 Feb 2025 09:00:00 +1100"
     },
     {
-      "title": "Matildas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
-      "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
-    },
-    {
-      "title": "Real Madrid vs Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid%20vs%20Girona",
+      "title": "Man City vs Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Liverpool",
       "pubdate": "Mon, 24 Feb 2025 04:00:00 +1100"
     },
     {
-      "title": "Spit Bridge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spit%20Bridge",
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+      "pubdate": "Mon, 24 Feb 2025 04:00:00 +1100"
+    },
+    {
+      "title": "Spit Bridge crash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spit%20Bridge%20crash",
       "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
     },
     {
@@ -42,6 +37,11 @@
       "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
     },
     {
+      "title": "Shark attack",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shark%20attack",
+      "pubdate": "Mon, 24 Feb 2025 12:00:00 +1100"
+    },
+    {
       "title": "Pakistan vs India",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pakistan%20vs%20India",
       "pubdate": "Sun, 23 Feb 2025 04:00:00 +1100"
@@ -50,11 +50,6 @@
       "title": "Pope Francis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pope%20Francis",
       "pubdate": "Sun, 23 Feb 2025 10:00:00 +1100"
-    },
-    {
-      "title": "India vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Pakistan",
-      "pubdate": "Sun, 23 Feb 2025 12:00:00 +1100"
     },
     {
       "title": "German election",
@@ -77,14 +72,19 @@
       "pubdate": "Sun, 23 Feb 2025 01:00:00 +1100"
     },
     {
+      "title": "Jagga Smith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jagga%20Smith",
+      "pubdate": "Sun, 23 Feb 2025 14:00:00 +1100"
+    },
+    {
       "title": "1923",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#1923",
       "pubdate": "Sun, 23 Feb 2025 20:00:00 +1100"
     },
     {
-      "title": "Jagga Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jagga%20Smith",
-      "pubdate": "Sun, 23 Feb 2025 14:00:00 +1100"
+      "title": "Snake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Snake",
+      "pubdate": "Sun, 23 Feb 2025 16:00:00 +1100"
     },
     {
       "title": "Six Nations",

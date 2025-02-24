@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-02-2025 , 23:58:35",
+  "lastUpdate": "24-02-2025 , 01:52:36",
   "data": [
+    {
+      "title": "Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brugge",
+      "pubdate": "Mon, 24 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Club Brugge  Standard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Standard",
@@ -27,23 +32,23 @@
       "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
     },
     {
-      "title": "Pape François",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pape%20Fran%C3%A7ois",
-      "pubdate": "Sun, 23 Feb 2025 02:00:00 +0100"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
       "pubdate": "Sun, 23 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Standard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
+      "title": "Pape François",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pape%20Fran%C3%A7ois",
+      "pubdate": "Sun, 23 Feb 2025 02:00:00 +0100"
+    },
+    {
+      "title": "SPD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SPD",
       "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Verkiezingen Duitsland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verkiezingen%20Duitsland",
+      "title": "Standard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
       "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Alice Weidel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20Weidel",
       "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Els Van Doesburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Els%20Van%20Doesburg",
-      "pubdate": "Sun, 23 Feb 2025 12:00:00 +0100"
     }
   ]
 }

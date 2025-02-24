@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 23:58:40",
+  "lastUpdate": "24-02-2025 , 01:52:42",
   "data": [
     {
       "title": "German election",
@@ -7,14 +7,19 @@
       "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
     },
     {
+      "title": "Te Matatini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Matatini",
+      "pubdate": "Mon, 24 Feb 2025 09:00:00 +1300"
+    },
+    {
       "title": "Man City vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Liverpool",
       "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
     },
     {
-      "title": "Te Matatini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Matatini",
-      "pubdate": "Mon, 24 Feb 2025 09:00:00 +1300"
+      "title": "Andrew Bayly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Bayly",
+      "pubdate": "Mon, 24 Feb 2025 13:00:00 +1300"
     },
     {
       "title": "Newcastle vs nottm Forest",
@@ -67,6 +72,11 @@
       "pubdate": "Sun, 23 Feb 2025 19:00:00 +1300"
     },
     {
+      "title": "Canada Women's Sevens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canada%20Women's%20Sevens",
+      "pubdate": "Sun, 23 Feb 2025 10:00:00 +1300"
+    },
+    {
       "title": "Everton vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Everton%20vs%20Man%20United",
       "pubdate": "Sun, 23 Feb 2025 04:00:00 +1300"
@@ -77,29 +87,19 @@
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +1300"
     },
     {
-      "title": "Chinese warships Tasman Sea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chinese%20warships%20Tasman%20Sea",
-      "pubdate": "Sun, 23 Feb 2025 14:00:00 +1300"
-    },
-    {
       "title": "Daylight savings 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daylight%20savings%202025",
       "pubdate": "Sun, 23 Feb 2025 17:00:00 +1300"
     },
     {
+      "title": "Chinese warships Tasman Sea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chinese%20warships%20Tasman%20Sea",
+      "pubdate": "Sun, 23 Feb 2025 14:00:00 +1300"
+    },
+    {
       "title": "Aston Villa vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Chelsea",
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +1300"
-    },
-    {
-      "title": "Electric Avenue Christchurch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Electric%20Avenue%20Christchurch",
-      "pubdate": "Sun, 23 Feb 2025 21:00:00 +1300"
-    },
-    {
-      "title": "Katie Bradford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Katie%20Bradford",
-      "pubdate": "Sun, 23 Feb 2025 17:00:00 +1300"
     }
   ]
 }
